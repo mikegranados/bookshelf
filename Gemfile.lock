@@ -182,7 +182,10 @@ DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
   haml-rails (~> 0.9)
+<<<<<<< HEAD
   httparty (~> 0.13.7)
+=======
+>>>>>>> eecd579c1dd40829797a7e2724b411083014148b
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.2.1)
